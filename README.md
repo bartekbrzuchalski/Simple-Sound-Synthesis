@@ -25,7 +25,7 @@ you have to run both "pip install playsound" and "pip3 install -U PyObjC".
 It is recommended to have some software that can record internal sound from the computer. I have used the software
 BlackHole (it is free), as can be seen in the testing program and the demo. This is not necessary and the built-in
 microphone on your computer should also be fine. Recording with some inputs may cause problems so make sure that
-hey are set as the chosen audio device in the computer settings as well.
+they are set as the chosen audio device in the computer settings as well.
 
 The demo is in Swedish but even if you do not understand, I hope that you can see how the library can be used through
 my inputs and their results.
