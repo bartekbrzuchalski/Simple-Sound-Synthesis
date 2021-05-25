@@ -1,0 +1,5 @@
+BlackHole 2ch
+yes
+b
+triangle 0.1 800
+

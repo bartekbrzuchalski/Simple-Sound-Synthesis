@@ -1,0 +1,5 @@
+BlackHole 2ch
+yes
+b
+square 0.1 400
+

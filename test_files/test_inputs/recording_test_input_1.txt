@@ -1,0 +1,5 @@
+BlackHole 2ch
+yes
+b
+sine 1 100
+
